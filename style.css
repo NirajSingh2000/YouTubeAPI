@@ -1,0 +1,27 @@
+body{ 
+	font-family: Sans-serif,Arial; 
+	width: 600px; 
+}	 
+.container-class{ 
+	background: #e9e9e9; 
+	border: #B3B2B2 1px solid; 
+	border-radius: 2px; 
+	margin: 20px; 
+	padding: 40px; 
+}	 
+.input-class{ 
+	width: 100%; 
+	border-radius: 2px; 
+	padding: 20px; 
+	border: #e9e9e9 1px solid; 
+} 
+.submit-class{ 
+	padding: 10px 20px; 
+	background: #000;		 
+	color: #fff; 
+	font-size: 0.8em; 
+	width: 110px; 
+	border-radius: 4px; 
+	cursor:pointer; 
+	border: black 2px solid; 
+}
